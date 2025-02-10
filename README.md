@@ -5,7 +5,7 @@
 Exchange Rate Updater is a Python-based project that fetches exchange rates from the European Central Bank and updates a SQL database with the latest values from the day. This ensures real-time access to currency conversion rates for various applications.
 
 ## Features
-- Fetches exchange rates from global APIs
+- Fetches exchange rates from the European Central Bank
 - Supports multiple currencies
 - Updates an SQL database with the latest rates
 
